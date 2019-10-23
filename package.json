@@ -1,0 +1,17 @@
+{
+  "name": "airbnb-proxy",
+  "version": "1.0.0",
+  "description": "Proxy for airbnb project at Hack Reactor",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon server/index.js"
+  },
+  "author": "Brian Hambleton",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^0.20.0",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.4"
+  }
+}
