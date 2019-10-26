@@ -1,0 +1,8 @@
+.center {
+    margin-left: 25%;
+}
+
+.sticky {
+    position: sticky;
+    top: 0;
+}
